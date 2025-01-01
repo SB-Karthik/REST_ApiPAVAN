@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/Users/user/Desktop/JAVA/REST_ApiPAVAN/src/test/java/day8"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.220">
+    <properties></properties>
+
+
+
+            <testcase
+                name="test_getUser"
+                time="0.220"
+                classname="day8.GetUser">
+            </testcase>
+</testsuite>

@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Suite">
-    <test verbose="2" preserve-order="true" name="/Users/user/Desktop/JAVA/REST_ApiPAVAN/src/test/java/day8">
+    <test name="Test1">
         <classes>
-            <class name="day8.CreateUser">
-                <methods>
-                    <include name="test_createUser"/>
-                </methods>
-            </class>
-            <class name="day8.GetUser">
-                <methods>
-                    <include name="test_getUser"/>
-                </methods>
-            </class>
-            <class name="day8.UpdateUser">
-                <methods>
-                    <include name="test_updateUser"/>
-                </methods>
-            </class>
-            <class name="day8.DeleteUser">
-                <methods>
-                    <include name="test_deleteUser"/>
-                </methods>
-            </class>
+            <class name="day8.CreateUser"/>
+            </classes>
+    </test>
+    <test name="Test2">
+        <classes>
+            <class name="day8.GetUser"/>
+        </classes>
+    </test>
+
+    <test name="Test3">
+        <classes>
+            <class name="day8.UpdateUser"/>
+        </classes>
+    </test>
+
+    <test name="Test4">
+        <classes>
+            <class name="day8.DeleteUser"/>
         </classes>
     </test>
 </suite>

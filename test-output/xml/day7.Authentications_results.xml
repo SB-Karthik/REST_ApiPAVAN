@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST_ApiPAVAN"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.274">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPreemptiveAuthentication"
+                time="7.274"
+                classname="day7.Authentications">
+            </testcase>
+</testsuite>

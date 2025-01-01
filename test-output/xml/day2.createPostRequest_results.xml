@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST_ApiPAVAN"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.845">
+    <properties></properties>
+
+
+
+            <testcase
+                name="externalJson"
+                time="5.832"
+                classname="day2.createPostRequest">
+            </testcase>
+            <testcase
+                name="testDelete"
+                time="0.013"
+                classname="day2.createPostRequest">
+            </testcase>
+</testsuite>

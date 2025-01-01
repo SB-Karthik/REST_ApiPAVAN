@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST_ApiPAVAN"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="6.178">
+    <properties></properties>
+
+
+
+            <testcase
+                name="getHeaders"
+                time="6.178"
+                classname="day3.HeaderDemo">
+            </testcase>
+</testsuite>

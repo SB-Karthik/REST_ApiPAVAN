@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="REST_ApiPAVAN"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.268">
+    <properties></properties>
+
+
+
+            <testcase
+                name="createUser"
+                time="0.552"
+                classname="day1.HTTPRequest">
+            </testcase>
+            <testcase
+                name="getUsers"
+                time="5.918"
+                classname="day1.HTTPRequest">
+            </testcase>
+            <testcase
+                name="deleteUser"
+                time="0.408"
+                classname="day1.HTTPRequest">
+            </testcase>
+            <testcase
+                name="updateUser"
+                time="0.390"
+                classname="day1.HTTPRequest">
+            </testcase>
+</testsuite>

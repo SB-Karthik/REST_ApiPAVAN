@@ -1,11 +1,10 @@
-package day2;
+package day6;
 
-public class Pojo_PostReuest {
+public class Student {
     String name;
     String id;
     int age;
     String gender;
-
 
 
     String courses[];

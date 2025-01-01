@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="/Users/user/Desktop/JAVA/REST_ApiPAVAN/src/test/java/day8/petstore"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="7.062">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testCreate"
+                time="7.062"
+                classname="day8.petstore.createUser">
+            </testcase>
+</testsuite>

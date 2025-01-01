@@ -1,2 +1,4 @@
-package day5;public class parsingXmlData {
+package day5;
+
+public class parsingXmlData {
 }

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/user/Desktop/JAVA/REST_ApiPAVAN/src/test/java/day8/petstore">
+        <classes>
+            <class name="day8.petstore.createUser">
+                <methods>
+                    <include name="testCreate"/>
+                </methods>
+            </class>
+            <class name="day8.petstore.UpdateUser">
+                <methods>
+                    <include name="test_updateUser"/>
+                </methods>
+            </class>
+            <class name="day8.petstore.GetsingleUser">
+                <methods>
+                    <include name="test_Getuser"/>
+                </methods>
+            </class>
+            <class name="day8.petstore.DeleteUser">
+                <methods>
+                    <include name="test_deleteUser"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
